@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" width="100%" height="30%">
+  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" style="max-height:300px; width:auto;">
 </p>
+
 
 # 👋 Willkommen in meinem GitHub-Dungeon  
 
@@ -13,5 +14,6 @@
 ---
 
 <p align="center">
-  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" width="100%">
+  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" style="max-height:300px; width:auto;">
 </p>
+
