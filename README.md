@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" width="100%">
+  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" width="100%" height="30%">
 </p>
 
 # 👋 Willkommen in meinem GitHub-Dungeon  
