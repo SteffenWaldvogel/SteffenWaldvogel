@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="neural_network_10frames.gif" 
+<p style="margin:0; padding:0;">
+  <img src="neural_network_10frames.gif"
        alt="Dark Fantasy Neural Network"
-       style="width:100%; height:30vh; object-fit:contain;">
+       style="display:block; width:100%; height:30vh; object-fit:cover;">
 </p>
 
 
@@ -16,10 +16,10 @@
 
 ---
 
-<p align="center">
-  <img src="neural_network_10frames.gif" 
+<p style="margin:0; padding:0;">
+  <img src="neural_network_10frames.gif"
        alt="Dark Fantasy Neural Network"
-       style="width:100%; height:30vh; object-fit:contain;">
+       style="display:block; width:100%; height:30vh; object-fit:cover;">
 </p>
 
 
