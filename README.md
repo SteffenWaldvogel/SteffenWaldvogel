@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" style="max-height:300px; width:auto;">
+  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" style="max-height:300px; width:"100%";">
 </p>
 
 
@@ -14,6 +14,6 @@
 ---
 
 <p align="center">
-  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" style="max-height:300px; width:auto;">
+  <img src="neural_network_10frames.gif" alt="Dark Fantasy Neural Network" style="max-height:300px; width:"100%";">
 </p>
 
