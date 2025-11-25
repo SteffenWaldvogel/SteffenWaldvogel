@@ -6,15 +6,7 @@
 
 
 
-# 👋 Willkommen in meinem GitHub-Dungeon  
 
-
-## 📊 Ein bisschen Statistik
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SteffenWaldvogel&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
----
 
 <picture>
   <img src="neural_network_10frames.gif"
