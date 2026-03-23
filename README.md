@@ -47,16 +47,9 @@ DHBW-Student | Full-Stack Entwicklung | Backend & Datenbanken
 
 ### Boot.dev
 
-[![Boot.dev Profile](https://img.shields.io/badge/Boot.dev-Profile-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white)](https://boot.dev/u/comfortable)
-
-| | |
-|---|---|
-| XP | **574,257** |
-| Kurse abgeschlossen | **4** |
-| Projekte | **2** |
-| Lektionen | **535** |
-
-<details>
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/f6f1e3bf-9f39-4cde-88ad-049f1f7a8b1c/thumbnail" >
+</p>
 <summary>Abgeschlossene Kurse</summary>
 
 - Learn to Code in Python
